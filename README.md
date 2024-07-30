@@ -15,5 +15,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Bootstrap](https://getbootstrap.com]
+- [Bootstrap](https://getbootstrap.com)
 
